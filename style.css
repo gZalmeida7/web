@@ -14,9 +14,9 @@ h2{
 }
 
 body {
-    min-height: 100vh;
-    margin: 0%;
-background: linear-gradient(0deg,#2b2b2b,#888,#fff);
+    min-height: 0;
+    margin: 100vh;
+background:red !important;
 
 
 }
