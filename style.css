@@ -16,7 +16,7 @@ h2{
 body {
     min-height: 0;
     margin: 100vh;
-background:red !important;
+background: linear-gradient(0deg,#2b2b2b,#888,#fff);
 
 
 }
