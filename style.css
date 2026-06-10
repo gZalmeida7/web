@@ -23,7 +23,9 @@ background: linear-gradient(0deg, rgb(62, 61, 61) 27%, rgba(130, 130, 130, 1) 59
 background-repeat: no-repeat;
 background-size: cover;
 }
-
+img{
+    font-size: 30px;
+}
 
 
 
