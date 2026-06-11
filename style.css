@@ -26,7 +26,11 @@ background-size: cover;
 }
 img{
     width: 25%;
-
+position: absolute;
+top: 20px;
+left: 50%;
+transform: translateX(-50%);
+z-index: -1;
 }
 
 
