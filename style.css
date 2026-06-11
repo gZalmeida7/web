@@ -1,3 +1,14 @@
+img{
+    width: 20%;
+position: absolute;
+top: 20px;
+left: 50%;
+transform: translateX(-50%);
+z-index: -1;
+}
+
+
+
 h1{
     background-image: url("./pngwing.com.png");
     font-size: 80px;
@@ -5,6 +16,8 @@ h1{
     text-align: center;
     text-shadow: 1px;
     color: black;
+    position: relative;
+    z-index: 10;
 }
 h2{
     font-size: 40px;
@@ -23,14 +36,6 @@ background: linear-gradient(0deg, rgb(62, 61, 61) 27%, rgba(130, 130, 130, 1) 59
 
 background-repeat: no-repeat;
 background-size: cover;
-}
-img{
-    width: 20%;
-position: absolute;
-top: 20px;
-left: 50%;
-transform: translateX(-50%);
-z-index: -1;
 }
 
 
