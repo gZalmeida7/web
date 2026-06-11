@@ -10,6 +10,11 @@ z-index: -1;
 
 
 h1{
+    background-image: url(pngwing.com.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 250px;
+    padding: 80px 0;
     font-size: 80px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -35,6 +40,7 @@ background: linear-gradient(0deg, rgb(62, 61, 61) 27%, rgba(130, 130, 130, 1) 59
 
 background-repeat: no-repeat;
 background-size: cover;
+
 }
 
 
