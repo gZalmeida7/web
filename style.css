@@ -39,7 +39,7 @@ transform: translateX(-50%);
 opacity: 0.3;
 }
 
-h2{
+.cabecalho h2{
     font-size: 70px;
  
     text-align: center;
