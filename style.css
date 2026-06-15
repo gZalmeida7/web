@@ -29,7 +29,7 @@ img{
  
     width: 20%;
 position: absolute;
-top: -30px;
+top: -10px;
 left: 50%;
 transform: translateX(-50%);
 opacity: 0.3;
