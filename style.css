@@ -33,7 +33,7 @@ img{
  
     width: 30%;
 position: absolute;
-top: 30px;
+top: 10px;
 left: 50%;
 transform: translateX(-50%);
 opacity: 1;
