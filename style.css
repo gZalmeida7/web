@@ -23,7 +23,9 @@ h1{
  
     text-align: center;
     text-shadow: 1px;
-    color: rgb(238, 0, 139);
+    background: -webkit-linear-gradient(#16dcf2, #e200c8);
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
     position: relative;
    
  
