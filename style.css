@@ -23,7 +23,7 @@ h1{
  
     text-align: center;
     text-shadow: 1px;
-    background: -webkit-linear-gradient(#00f8fc, #ff0073);
+    background: -webkit-linear-gradient(#2f54ff, #ff0073);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
@@ -33,7 +33,7 @@ h1{
 }
 
 img{
- 
+ z-index: ;
     width: 30%;
 position: absolute;
 top: 133px;
