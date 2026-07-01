@@ -32,7 +32,7 @@ h1{
  
 }
 
-img{
+.logo{
  z-index: -1 ;
     width: 30%;
 position: absolute;
