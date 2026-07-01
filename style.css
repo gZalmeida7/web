@@ -33,7 +33,7 @@ h1{
 }
 
 img{
- z-index: 0 ;
+ z-index: -1 ;
     width: 30%;
 position: absolute;
 top: 133px;
