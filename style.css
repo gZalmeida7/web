@@ -48,8 +48,20 @@ opacity: 0.8;
     text-shadow: 1px 0 2px;
     
 }
+main{
+    background-color: #2b2b2b;
+    color: white;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
 
-
+}
+article{
+    display: flex;
+}
+.texto-post{
+    margin-left: 40px;
+}
 
 
 
